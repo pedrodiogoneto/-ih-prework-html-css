@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(244, 248, 249);
+  width: 1000px;
+  height: 1000px;
+  font-family: Helvetica;
+}
+
+.container-ext {
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: rgb(225, 232, 237);
+  margin: 5px 10px 10px 10px;
+  padding: 30px;
+}
+
+.profile-pic {
+  float: left;
+  margin-right: 20px;
+}
+
+.account-logo {
+  float: top;
+}
+
+.jack {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+}
+
+.atjack {
+  color: rgb(104, 109, 129);
+  font-size: 28px;
+}
+
+.follow {
+  border: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: rgb(85, 172, 238);
+  float: right;
+  padding: 10px 20px 10px 20px;
+}
+
+.follow-text {
+  color: rgb(85, 172, 238);
+  font-size: 40px;
+}
+
+.twitt-text {
+  color: rgb( 0, 0, 0);
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.date {
+  color: rgb(101, 116, 127);
+  font-size: 35px;
+}
+
+.bottom-text {
+  color: rgb(105, 120, 130);
+  font-size: 30px;
+}
